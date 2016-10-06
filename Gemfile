@@ -31,3 +31,6 @@ gem 'foundation-rails'
 gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
+group :development do
+  gem 'rails_layout'
+end
